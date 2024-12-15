@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pasta Carbonara",
+    "description": "A classic Italian pasta dish with eggs, cheese, and bacon.",
+    "image": "https://via.placeholder.com/100",
+    "time": "25 mins"
+  },
+  {
+    "title": "Chicken Curry",
+    "description": "A spicy and flavorful chicken curry dish.",
+    "image": "https://via.placeholder.com/100",
+    "time": "45 mins"
+  },
+  {
+    "title": "Grilled Cheese Sandwich",
+    "description": "Simple, quick, and delicious cheese sandwich.",
+    "image": "https://via.placeholder.com/100",
+    "time": "10 mins"
+  }
+]
